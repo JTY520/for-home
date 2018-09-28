@@ -1,0 +1,12 @@
+G:\程序设计\Project\System\ForHouseSystem\ForHouseSystem\bin\Debug\netcoreapp2.0\ForHouseSystem.deps.json
+G:\程序设计\Project\System\ForHouseSystem\ForHouseSystem\bin\Debug\netcoreapp2.0\ForHouseSystem.runtimeconfig.json
+G:\程序设计\Project\System\ForHouseSystem\ForHouseSystem\bin\Debug\netcoreapp2.0\ForHouseSystem.runtimeconfig.dev.json
+G:\程序设计\Project\System\ForHouseSystem\ForHouseSystem\bin\Debug\netcoreapp2.0\ForHouseSystem.dll
+G:\程序设计\Project\System\ForHouseSystem\ForHouseSystem\obj\Debug\netcoreapp2.0\ForHouseSystem.csprojResolveAssemblyReference.cache
+G:\程序设计\Project\System\ForHouseSystem\ForHouseSystem\obj\Debug\netcoreapp2.0\ForHouseSystem.csproj.CoreCompileInputs.cache
+G:\程序设计\Project\System\ForHouseSystem\ForHouseSystem\obj\Debug\netcoreapp2.0\ForHouseSystem.AssemblyInfoInputs.cache
+G:\程序设计\Project\System\ForHouseSystem\ForHouseSystem\obj\Debug\netcoreapp2.0\ForHouseSystem.AssemblyInfo.cs
+G:\程序设计\Project\System\ForHouseSystem\ForHouseSystem\bin\Debug\netcoreapp2.0\ForHouseSystem.xml
+G:\程序设计\Project\System\ForHouseSystem\ForHouseSystem\bin\Debug\netcoreapp2.0\ForHouseSystem.pdb
+G:\程序设计\Project\System\ForHouseSystem\ForHouseSystem\obj\Debug\netcoreapp2.0\ForHouseSystem.dll
+G:\程序设计\Project\System\ForHouseSystem\ForHouseSystem\obj\Debug\netcoreapp2.0\ForHouseSystem.pdb

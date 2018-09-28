@@ -1,0 +1,15 @@
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 500px;
+    width:800px;
+    overflow: hidden;
+  }
+  .images-box img{
+      margin: auto;
+  }
+  .images-box{
+      width:600px;
+      height: 400px;
+      float: left;
+      margin-top: 20px;
+  }

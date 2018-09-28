@@ -1,0 +1,47 @@
+.header-flex{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    float: left;
+    width: 100%;
+    margin-bottom: 5px;
+    font-size: 18px;
+    padding-top: 8px;
+}
+.recommand-box{
+    width: 400px;
+    height:600px;
+    float: right;
+}
+.recommand-list{
+    width: 400px;
+    height:500px;
+    float: right;
+    margin-bottom: 20px;
+}
+.broadcast-box{
+    width: 800px;
+    height: 500px;
+    float: left;
+}
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 500px;
+    width:800px;
+    overflow: hidden;
+  }
+  .broadcast-box img{
+      margin: auto;
+  }
+
+  .newest-box{
+      margin-top: 20px;
+      width: 800px;
+      height: 100%;
+      float: left;
+  }
+  .newest-list{
+    width: 800px;
+    height: 100%;
+    float: left;
+  }

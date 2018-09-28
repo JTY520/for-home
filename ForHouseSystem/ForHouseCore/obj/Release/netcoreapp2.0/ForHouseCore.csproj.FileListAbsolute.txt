@@ -1,0 +1,16 @@
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\bin\Release\netcoreapp2.0\ForHouseCore.deps.json
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\bin\Release\netcoreapp2.0\ForHouseCore.dll
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\obj\Release\netcoreapp2.0\ForHouseCore.csprojResolveAssemblyReference.cache
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\obj\Release\netcoreapp2.0\ForHouseCore.csproj.CoreCompileInputs.cache
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\obj\Release\netcoreapp2.0\ForHouseCore.AssemblyInfoInputs.cache
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\obj\Release\netcoreapp2.0\ForHouseCore.AssemblyInfo.cs
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\bin\Release\netcoreapp2.0\ForHouseCore.runtimeconfig.json
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\bin\Release\netcoreapp2.0\ForHouseCore.runtimeconfig.dev.json
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\bin\Release\netcoreapp2.0\ForHouseCore.pdb
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\bin\Release\netcoreapp2.0\ForHouseEntity.dll
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\bin\Release\netcoreapp2.0\ForHouseEntity.pdb
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\obj\Release\netcoreapp2.0\ForHouseCore.csproj.CopyComplete
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\obj\Release\netcoreapp2.0\ForHouseCore.dll
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\obj\Release\netcoreapp2.0\ForHouseCore.pdb
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\bin\Release\netcoreapp2.0\ForHouseCore.xml
+G:\程序设计\Project\System\ForHouseSystem\ForHouseCore\bin\Release\netcoreapp2.0\ForHouseEntity.xml
